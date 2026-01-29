@@ -1,5 +1,4 @@
 # 🚢 Titanic Survival Prediction – Machine Learning Pipeline
-
 A complete end-to-end Machine Learning project that predicts passenger survival on the Titanic dataset using **Decision Tree Classifier** with proper data preprocessing, encoding, model training, evaluation, and serialization.
 
 ---
