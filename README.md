@@ -22,7 +22,7 @@ This project demonstrates a **production-style ML workflow** including:
 - Pandas
 - NumPy
 - Scikit-learn
-- Pickle
+- Pickl
 
 ---
 
@@ -78,4 +78,5 @@ All models are saved in the `models/` directory:
 
 ```bash
 pip install pandas numpy scikit-learn
+
 
